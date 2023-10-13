@@ -1,0 +1,2 @@
+Make sure to replace the placeholder comments with the appropriate paths or logic for your use case. Additionally, it's a good practice to handle default cases or provide an error value if none of the conditions are met.
+this one is for the demo of the fs module and fspromises
